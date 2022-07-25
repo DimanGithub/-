@@ -1,5 +1,5 @@
 # Initial byte array
-  byte[]myb=new byte[]{0x01,110,0xff};
+  byte[]myb=new byte[]{0b01011111,0x01,110,0xff};
 
 # Print byte in HEX format
   byte b =255;
